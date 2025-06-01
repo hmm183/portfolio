@@ -418,7 +418,7 @@ export default function Portfolio() {
               <Mail size={28} />
             </a>
             <a
-              href="https://github.com/vrishank"
+              href="https://github.com/hmm183"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-blue-400 dark:hover:text-blue-600 transition-transform duration-300 transform hover:scale-110"
